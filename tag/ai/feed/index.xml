@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lưu trữ AI - tít bé store</title>
+	<atom:link href="httphttps://github.com/titbe/WP/tag/ai/feed/" rel="self" type="application/rss+xml" />
+	<link>httphttps://github.com/titbe/WP/tag/ai/</link>
+	<description>cập nhật thông tin mọi lúc</description>
+	<lastBuildDate>Tue, 22 Aug 2023 12:46:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+
+<image>
+	<url>httphttps://github.com/titbe/WP/wp-content/uploads/2023/08/anh-webtintuc.jpg</url>
+	<title>Lưu trữ AI - tít bé store</title>
+	<link>httphttps://github.com/titbe/WP/tag/ai/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nỗi lo AI mất kiểm soát</title>
+		<link>httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/</link>
+					<comments>httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/#respond</comments>
+		
+		<dc:creator><![CDATA[phamhieu]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:46:56 +0000</pubDate>
+				<category><![CDATA[Công nghệ]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">httphttps://github.com/titbe/WP/?p=38</guid>
+
+					<description><![CDATA[<p>Lỗi kỹ thuật khiến AI của Snapchat có thể tự đăng các dòng trạng thái, từ chối trả lời các câu hỏi và khiến nhiều <a class="mh-excerpt-more" href="httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/" title="Nỗi lo AI mất kiểm soát">[...]</a></p>
+<p>Bài viết <a rel="nofollow" href="httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/">Nỗi lo AI mất kiểm soát</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="httphttps://github.com/titbe/WP">tít bé store</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="description">Lỗi kỹ thuật khiến AI của Snapchat có thể tự đăng các dòng trạng thái, từ chối trả lời các câu hỏi và khiến nhiều người lo lắng.</p>
+<article class="fck_detail ">
+<p class="Normal">My AI được xây dựng dựa trên mô hình <a href="https://vnexpress.net/chu-de/chatgpt-5974" rel="dofollow" data-itm-source="#vn_source=Detail-SoHoa_CongNghe_Ai-4644113&amp;vn_campaign=Box-InternalLink&amp;vn_medium=Link-Chatgpt&amp;vn_term=Desktop&amp;vn_thumb=0&amp;vn_test=B" data-itm-added="1">ChatGPT</a> của <a href="https://vnexpress.net/chu-de/openai-5975" rel="dofollow" data-itm-source="#vn_source=Detail-SoHoa_CongNghe_Ai-4644113&amp;vn_campaign=Box-InternalLink&amp;vn_medium=Link-Openai&amp;vn_term=Desktop&amp;vn_thumb=0&amp;vn_test=B" data-itm-added="1">OpenAI</a>. Thay vì chỉ đưa ra các đề xuất, trả lời câu hỏi và trò chuyện thông thường, chatbot của Snapchat có thể tùy chỉnh tên, thiết kế hình đại diện và xuất hiện trong cuộc trò chuyện nhóm.</p>
+<p class="Normal">Tuần trước, My AI đã có hành động bất thường. Nhiều người cho biết chatbot tự đăng video lên tài khoản cá nhân và viết những nội dung tự sáng tác. Một số người nói chatbot &#8220;ngó lơ&#8221; tin nhắn của mình. &#8220;Ngay cả một botAI cũng không có thời gian cho tôi&#8221;, một người viết. Hành động lạ của My AI khiến một số người dùng tưởng rằng AI đã có suy nghĩ riêng. Đại diện Snapchat sau đó thừa nhận hệ thống AI của họ gặp một số trục trặc và đã được khắc phục.</p>
+<figure class="tplCaption action_thumb_added" data-size="true">
+<div class="fig-picture"><picture data-inimage="done"><source srcset="https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=JvtKk8JickR2GGIE_Z4FjQ 1x, https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=1020&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Nm_tU-Uu-S2wiXCgai4tTw 1.5x, https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=hStPXDAzd_QHX0qOS7WHKA 2x" data-srcset="https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=JvtKk8JickR2GGIE_Z4FjQ 1x, https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=1020&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Nm_tU-Uu-S2wiXCgai4tTw 1.5x, https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=hStPXDAzd_QHX0qOS7WHKA 2x" /><img decoding="async" class="lazy lazied" src="https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=JvtKk8JickR2GGIE_Z4FjQ" alt="My AI trên Snapchat. Ảnh: Foundry" data-src="https://i1-sohoa.vnecdn.net/2023/08/21/MY-AI-Snapchat-4779-1692608869.jpg?w=680&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=JvtKk8JickR2GGIE_Z4FjQ" data-ll-status="loaded" data-adbro-processed="true" /></picture>
+<div class="embed-container-ads">
+<div id="sis_inimage" data-google-query-id="CNTD3Nml8IADFXnsTAIdYN4Eog">
+<div id="google_ads_iframe_/27973503/Vnexpress/Desktop/Inimage/Sohoa/Sohoa.congnghe.detail_0__container__"><iframe id="google_ads_iframe_/27973503/Vnexpress/Desktop/Inimage/Sohoa/Sohoa.congnghe.detail_0" tabindex="0" title="3rd party ad content" role="region" name="google_ads_iframe_/27973503/Vnexpress/Desktop/Inimage/Sohoa/Sohoa.congnghe.detail_0" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" aria-label="Advertisement" data-load-complete="true" data-google-container-id="5" data-mce-fragment="1"></iframe></div>
+</div>
+</div>
+</div><figcaption>
+<p class="Image">My AI trên Snapchat. Ảnh: <em>Foundry</em></p>
+</figcaption></figure>
+<p class="Normal">Sự cố đăng bài chỉ là vấn đề mới nhất với những chatbot như My AI. Từ khi ra mắt vào tháng 4, công cụ của Snapchat đã vấp phải phản ứng từ cộng đồng. Nhiều người cho biết họ đã cấm con cái dùng My AI. Số khác chấp nhận trả phí 3,99 USD (95 nghìn đồng) mỗi tháng để tắt công cụ này.</p>
+<p class="Normal">Trong thư gửi CEO Snapchat khi đó, Thượng nghị sĩ đảng Dân chủ Michael Bennet chỉ ra những lo ngại về cách chatbot tương tác với người dùng. Ông đề cập đến việc AI có thể dạy trẻ nhỏ cách nói dối cha mẹ.</p>
+<div id="sis_outstream__c" data-set="dfp"></div>
+<p class="Normal">Đáp lại, Snapchat viết trên blog của công ty: &#8220;My AI cần thêm thời gian để trở nên hoàn hảo nhưng công ty đã đạt được nhiều tiến bộ&#8221;.</p>
+<p class="Normal">Đến nay Snapchat vẫn duy trì My AI trên nền tảng, bất chấp cảnh báo từ các chuyên gia. Do được tùy chỉnh sâu hơn ChatGPT, My AI có thể trò chuyện với người dùng một cách tự nhiên đến mức nhiều người khó nhận biệt được đâu là AI, đâu là người thật.</p>
+<p class="Normal">Lyndsi Lee, sống tại East Prairie, Missouri (Canada), cấm con gái 13 tuổi tiếp cận AI này. &#8220;Tôi không nghĩ mình đủ sẵn sàng để biết cách dạy con cách phân biệt giữa người và máy móc. Snapchat có thể đang vượt qua ranh giới mong manh giữa người và AI&#8221;, <em>CNN</em> dẫn lời Lee.</p>
+<p class="Normal">Alexandra Hamlet, nhà tâm lý học lâm sàng ở New York, cho biết cha mẹ của một số bệnh nhân đã bày tỏ lo ngại khi con họ tương tác với AI. &#8220;Nếu một thiếu niên đang có tâm trạng tiêu cực và không làm chủ được cảm xúc, chatbot có thể khiến họ cảm thấy tồi tệ hơn. Theo thời gian, những cuộc nói chuyện tiêu cực có thể ăn mòn tinh thần của người trẻ. Dù ý thức được mình đang nói chuyện với chatbot, họ vẫn khó tránh được những tác động tiêu cực đến tâm lý&#8221;, Hamlet cảnh báo.</p>
+<p class="Normal">Điều khiến các chuyên gia lo lắng hơn cả là khi OpenAI cho phép các ứng dụng từ bên thứ ba có thể truy cập ChatGPT để tùy biến trên nền tảng, những chatbot như My AI sẽ xuất hiện ngày một nhiều.</p>
+</article>
+<p>Bài viết <a rel="nofollow" href="httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/">Nỗi lo AI mất kiểm soát</a> đã xuất hiện đầu tiên vào ngày <a rel="nofollow" href="httphttps://github.com/titbe/WP">tít bé store</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httphttps://github.com/titbe/WP/2023/08/22/noi-lo-ai-mat-kiem-soat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
